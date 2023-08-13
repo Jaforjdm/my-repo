@@ -1,0 +1,17 @@
+h2{
+ border: 1px solid blueviolet;
+ color: aquamarine;
+ text-align: center;
+}
+body{
+    background-color: azure;
+    margin: 0 auto;
+    width: 50%;
+}
+p{
+    color: blue;
+    border: 5px double green;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
